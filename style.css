@@ -1,0 +1,42 @@
+body {
+    background: grey;
+}
+p {
+    color:purple;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+h1 {
+    text-align:center;
+    font-style:oblique;
+    font-size: 30px;
+    color: blue
+    
+}
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+    color: aqua;
+    font-style: calc();
+    text-align: center;
+}
+img{
+    width: 100px;
+    height:120px;
+    margin :auto;
+    /* justify-content: center */
+}
+th {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px ;
+    font-style:oblique;
+    color: rgb(255, 205, 208);
+}
+table{
+    text-align: center;
+}
